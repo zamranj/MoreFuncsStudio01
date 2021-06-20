@@ -22,10 +22,6 @@ function minValue(array){
     }
   return out;
 }
-console.log(nums1);
-console.log(minValue(nums1));
-console.log(minValue(nums2));
-console.log(minValue(nums3));
 
 
 
@@ -33,4 +29,8 @@ console.log(minValue(nums3));
 
 
 
-console.log(/* your code here */);
+
+console.log(minValue(nums1));
+console.log(minValue(nums2));
+console.log(minValue(nums3));
+
